@@ -1,0 +1,9 @@
+{
+	"ip":"slugyyy.aternos.me:18584",
+	"port": 25710,
+	"name": "247user",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ultraprouser321123 ultraprouser321123",
+	"login-cmd":"/login ultraprouser321123"
+}
